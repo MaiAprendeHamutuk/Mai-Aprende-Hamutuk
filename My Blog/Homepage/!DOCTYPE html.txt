@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mai Aprende Hamutuk</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Mai Aprende Hamutuk</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Latest Posts</h2>
+      <article>
+        <h3><a href="blog1.html">My First Blog Post</a></h3>
+        <p>This is a short preview of my first blog post...</p>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Mai Aprende Hamutuk</p>
+  </footer>
+</body>
+</html>

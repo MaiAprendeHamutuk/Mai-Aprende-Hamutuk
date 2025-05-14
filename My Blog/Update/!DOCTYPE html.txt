@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About - Mai Aprende Hamutuk</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>About Mai Aprende Hamutuk</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <p>“Mai Aprende Hamutuk” means “Come, Let’s Learn Together.” This blog is a space to grow, reflect, and share wisdom through stories, thoughts, and learning. Welcome!</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Mai Aprende Hamutuk</p>
+  </footer>
+</body>
+</html>
