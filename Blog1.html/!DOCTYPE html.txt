@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="tet">
+<head>
+  <meta charset="UTF-8">
+  <title>Mai Aprende Hamutuk - Blog Post 1</title>
+</head>
+<body>
+  <h1>Bemvindu mai hau nia primeira blog post!</h1>
+
+  <p>Iha ne’ebé hau sei fahe hau nia idea, refleksaun, no buat sira ne’ebé hau aprende lor-loron.</p>
+  <p>“Mai Aprende Hamutuk” signifika ita lori malu ba iha dalan coñecemento. Espera katak ita boot sira bele aprende buat balu hosi nee.</p>
+  <p>Obrigadu barak ba ita sira ne’ebé vizita!</p>
+
+  <br>
+  <p><em>– Mai ita aprende hamutuk</em></p>
+
+  <a href="index.html">← Filan ba Home</a>
+</body>
+</html>
